@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shadabkazi
+- 👀 I’m interested in Java Web Development
+- 🌱 I’m currently learning Java Microservices and Angular
