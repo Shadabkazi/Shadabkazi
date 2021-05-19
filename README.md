@@ -8,4 +8,4 @@
   MySQL
   Docker
   Tomcat
-- 🌱 I’m currently Practising Frontend SPA Framework like Angular
+- 🌱 I’m currently Practising Frontend SPA Framework Angular
